@@ -13,8 +13,7 @@ import { Provider } from 'react-redux';
 import store from './store';
 import DevTools from './DevTools';
 import { getCountries } from './actions/actions-countries';
-import { Router, Route, hashHistory } from 'react-router';
-import Navigation from './presentational/navigation.component';
+import { Router, hashHistory } from 'react-router';
 import routes from './routes';
 
 render(
