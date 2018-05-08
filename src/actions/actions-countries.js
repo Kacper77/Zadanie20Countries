@@ -11,17 +11,17 @@ export function getCountries() {
     }
 }
 
-export function deleteCountry(id) {
+export function deleteCountry(alpha2Code) {
     return {
         type: DELETE_COUNTRY,
-        id
+        alpha2Code
     };
 }
 
-export function getCountry(id) {
+export function getCountry(alpha2Code) {
     return {
         type: GET_COUNTRY,
-        id
+        alpha2Code
     }
 }
 

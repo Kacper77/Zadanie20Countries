@@ -9,7 +9,7 @@ class CountryDetailsContainer extends Component {
     }
 
     componentDidMount() {
-        this.props.dispatch(getCountry(this.props.params.id));
+        this.props.dispatch(getCountry(this.props.params.alpha2Code));
     }
 
     render() {

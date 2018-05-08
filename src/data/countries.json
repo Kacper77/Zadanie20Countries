@@ -1,55 +1,491 @@
 [
 {
-    "name": "Polska",
-    "currency": "PLN",
-    "populace": "38.53",
-    "capital": "Warszawa",
-    "continent": "Europa",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/1280px-Flag_of_Poland.svg.png",
-    "id": 1
+    "name": "Poland",
+    "topLevelDomain": [
+        ".pl"
+    ],
+    "alpha2Code": "PL",
+    "alpha3Code": "POL",
+    "callingCodes": [
+        "48"
+    ],
+    "capital": "Warsaw",
+    "altSpellings": [
+        "PL",
+        "Republic of Poland",
+        "Rzeczpospolita Polska"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "population": 38437239,
+    "latlng": [
+        52.0,
+        20.0
+    ],
+    "demonym": "Polish",
+    "area": 312679.0,
+    "gini": 34.1,
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "borders": [
+        "BLR",
+        "CZE",
+        "DEU",
+        "LTU",
+        "RUS",
+        "SVK",
+        "UKR"
+    ],
+    "nativeName": "Polska",
+    "numericCode": "616",
+    "currencies": [
+    {
+        "code": "PLN",
+        "name": "Polish złoty",
+        "symbol": "zł"
+    }],
+    "languages": [
+    {
+        "iso639_1": "pl",
+        "iso639_2": "pol",
+        "name": "Polish",
+        "nativeName": "język polski"
+    }],
+    "translations":
+    {
+        "de": "Polen",
+        "es": "Polonia",
+        "fr": "Pologne",
+        "ja": "ポーランド",
+        "it": "Polonia",
+        "br": "Polônia",
+        "pt": "Polónia",
+        "nl": "Polen",
+        "hr": "Poljska",
+        "fa": "لهستان"
+    },
+    "flag": "https://restcountries.eu/data/pol.svg",
+    "regionalBlocs": [
+    {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+    }],
+    "cioc": "POL"
 },
 {
-    "name": "Irlandia",
-    "currency": "EUR",
-    "populace": "4.59",
+    "name": "Ireland",
+    "topLevelDomain": [
+        ".ie"
+    ],
+    "alpha2Code": "IE",
+    "alpha3Code": "IRL",
+    "callingCodes": [
+        "353"
+    ],
     "capital": "Dublin",
-    "continent": "Europa",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/1200px-Flag_of_Ireland.svg.png",
-    "id": 2
+    "altSpellings": [
+        "IE",
+        "Éire",
+        "Republic of Ireland",
+        "Poblacht na hÉireann"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "population": 6378000,
+    "latlng": [
+        53.0, -8.0
+    ],
+    "demonym": "Irish",
+    "area": 70273.0,
+    "gini": 34.3,
+    "timezones": [
+        "UTC"
+    ],
+    "borders": [
+        "GBR"
+    ],
+    "nativeName": "Éire",
+    "numericCode": "372",
+    "currencies": [
+    {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+    }],
+    "languages": [
+    {
+        "iso639_1": "ga",
+        "iso639_2": "gle",
+        "name": "Irish",
+        "nativeName": "Gaeilge"
+    },
+    {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+    }],
+    "translations":
+    {
+        "de": "Irland",
+        "es": "Irlanda",
+        "fr": "Irlande",
+        "ja": "アイルランド",
+        "it": "Irlanda",
+        "br": "Irlanda",
+        "pt": "Irlanda",
+        "nl": "Ierland",
+        "hr": "Irska",
+        "fa": "ایرلند"
+    },
+    "flag": "https://restcountries.eu/data/irl.svg",
+    "regionalBlocs": [
+    {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+    }],
+    "cioc": "IRL"
 },
 {
-    "name": "Holandia",
-    "currency": "EUR",
-    "populace": "16.8",
+    "name": "Netherlands",
+    "topLevelDomain": [
+        ".nl"
+    ],
+    "alpha2Code": "NL",
+    "alpha3Code": "NLD",
+    "callingCodes": [
+        "31"
+    ],
     "capital": "Amsterdam",
-    "continent": "Europa",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/900px-Flag_of_the_Netherlands.svg.png",
-    "id": 3
+    "altSpellings": [
+        "NL",
+        "Holland",
+        "Nederland"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "population": 17019800,
+    "latlng": [
+        52.5,
+        5.75
+    ],
+    "demonym": "Dutch",
+    "area": 41850.0,
+    "gini": 30.9,
+    "timezones": [
+        "UTC-04:00",
+        "UTC+01:00"
+    ],
+    "borders": [
+        "BEL",
+        "DEU"
+    ],
+    "nativeName": "Nederland",
+    "numericCode": "528",
+    "currencies": [
+    {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+    }],
+    "languages": [
+    {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+    }],
+    "translations":
+    {
+        "de": "Niederlande",
+        "es": "Países Bajos",
+        "fr": "Pays-Bas",
+        "ja": "オランダ",
+        "it": "Paesi Bassi",
+        "br": "Holanda",
+        "pt": "Países Baixos",
+        "nl": "Nederland",
+        "hr": "Nizozemska",
+        "fa": "پادشاهی هلند"
+    },
+    "flag": "https://restcountries.eu/data/nld.svg",
+    "regionalBlocs": [
+    {
+        "acronym": "EU",
+        "name": "European Union",
+        "otherAcronyms": [],
+        "otherNames": []
+    }],
+    "cioc": "NED"
 },
 {
-    "name": "Maroko",
-    "currency": "MAD",
-    "populace": "33.01",
+    "name": "Morocco",
+    "topLevelDomain": [
+        ".ma"
+    ],
+    "alpha2Code": "MA",
+    "alpha3Code": "MAR",
+    "callingCodes": [
+        "212"
+    ],
     "capital": "Rabat",
-    "continent": "Afryka",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/900px-Flag_of_Morocco.svg.png",
-    "id": 4
+    "altSpellings": [
+        "MA",
+        "Kingdom of Morocco",
+        "Al-Mamlakah al-Maġribiyah"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 33337529,
+    "latlng": [
+        32.0, -5.0
+    ],
+    "demonym": "Moroccan",
+    "area": 446550.0,
+    "gini": 40.9,
+    "timezones": [
+        "UTC"
+    ],
+    "borders": [
+        "DZA",
+        "ESH",
+        "ESP"
+    ],
+    "nativeName": "المغرب",
+    "numericCode": "504",
+    "currencies": [
+    {
+        "code": "MAD",
+        "name": "Moroccan dirham",
+        "symbol": "د.م."
+    }],
+    "languages": [
+    {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+    }],
+    "translations":
+    {
+        "de": "Marokko",
+        "es": "Marruecos",
+        "fr": "Maroc",
+        "ja": "モロッコ",
+        "it": "Marocco",
+        "br": "Marrocos",
+        "pt": "Marrocos",
+        "nl": "Marokko",
+        "hr": "Maroko",
+        "fa": "مراکش"
+    },
+    "flag": "https://restcountries.eu/data/mar.svg",
+    "regionalBlocs": [
+    {
+        "acronym": "AU",
+        "name": "African Union",
+        "otherAcronyms": [],
+        "otherNames": [
+            "الاتحاد الأفريقي",
+            "Union africaine",
+            "União Africana",
+            "Unión Africana",
+            "Umoja wa Afrika"
+        ]
+    },
+    {
+        "acronym": "AL",
+        "name": "Arab League",
+        "otherAcronyms": [],
+        "otherNames": [
+            "جامعة الدول العربية",
+            "Jāmiʻat ad-Duwal al-ʻArabīyah",
+            "League of Arab States"
+        ]
+    }],
+    "cioc": "MAR"
 },
 {
-    "name": "Tunezja",
-    "currency": "TND",
-    "populace": "10.89",
+    "name": "Tunisia",
+    "topLevelDomain": [
+        ".tn"
+    ],
+    "alpha2Code": "TN",
+    "alpha3Code": "TUN",
+    "callingCodes": [
+        "216"
+    ],
     "capital": "Tunis",
-    "continent": "Afryka",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
-    "id": 5
+    "altSpellings": [
+        "TN",
+        "Republic of Tunisia",
+        "al-Jumhūriyyah at-Tūnisiyyah"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 11154400,
+    "latlng": [
+        34.0,
+        9.0
+    ],
+    "demonym": "Tunisian",
+    "area": 163610.0,
+    "gini": 41.4,
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "borders": [
+        "DZA",
+        "LBY"
+    ],
+    "nativeName": "تونس",
+    "numericCode": "788",
+    "currencies": [
+    {
+        "code": "TND",
+        "name": "Tunisian dinar",
+        "symbol": "د.ت"
+    }],
+    "languages": [
+    {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+    }],
+    "translations":
+    {
+        "de": "Tunesien",
+        "es": "Túnez",
+        "fr": "Tunisie",
+        "ja": "チュニジア",
+        "it": "Tunisia",
+        "br": "Tunísia",
+        "pt": "Tunísia",
+        "nl": "Tunesië",
+        "hr": "Tunis",
+        "fa": "تونس"
+    },
+    "flag": "https://restcountries.eu/data/tun.svg",
+    "regionalBlocs": [
+    {
+        "acronym": "AU",
+        "name": "African Union",
+        "otherAcronyms": [],
+        "otherNames": [
+            "الاتحاد الأفريقي",
+            "Union africaine",
+            "União Africana",
+            "Unión Africana",
+            "Umoja wa Afrika"
+        ]
+    },
+    {
+        "acronym": "AL",
+        "name": "Arab League",
+        "otherAcronyms": [],
+        "otherNames": [
+            "جامعة الدول العربية",
+            "Jāmiʻat ad-Duwal al-ʻArabīyah",
+            "League of Arab States"
+        ]
+    }],
+    "cioc": "TUN"
 },
 {
-    "name": "Algieria",
-    "currency": "DZD",
-    "populace": "39.21",
-    "capital": "Algier",
-    "continent": "Afryka",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/900px-Flag_of_Algeria.svg.png",
-    "id": 6
+    "name": "Algeria",
+    "topLevelDomain": [
+        ".dz"
+    ],
+    "alpha2Code": "DZ",
+    "alpha3Code": "DZA",
+    "callingCodes": [
+        "213"
+    ],
+    "capital": "Algiers",
+    "altSpellings": [
+        "DZ",
+        "Dzayer",
+        "Algérie"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "population": 40400000,
+    "latlng": [
+        28.0,
+        3.0
+    ],
+    "demonym": "Algerian",
+    "area": 2381741.0,
+    "gini": 35.3,
+    "timezones": [
+        "UTC+01:00"
+    ],
+    "borders": [
+        "TUN",
+        "LBY",
+        "NER",
+        "ESH",
+        "MRT",
+        "MLI",
+        "MAR"
+    ],
+    "nativeName": "الجزائر",
+    "numericCode": "012",
+    "currencies": [
+    {
+        "code": "DZD",
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+    }],
+    "languages": [
+    {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+    }],
+    "translations":
+    {
+        "de": "Algerien",
+        "es": "Argelia",
+        "fr": "Algérie",
+        "ja": "アルジェリア",
+        "it": "Algeria",
+        "br": "Argélia",
+        "pt": "Argélia",
+        "nl": "Algerije",
+        "hr": "Alžir",
+        "fa": "الجزایر"
+    },
+    "flag": "https://restcountries.eu/data/dza.svg",
+    "regionalBlocs": [
+    {
+        "acronym": "AU",
+        "name": "African Union",
+        "otherAcronyms": [],
+        "otherNames": [
+            "الاتحاد الأفريقي",
+            "Union africaine",
+            "União Africana",
+            "Unión Africana",
+            "Umoja wa Afrika"
+        ]
+    },
+    {
+        "acronym": "AL",
+        "name": "Arab League",
+        "otherAcronyms": [],
+        "otherNames": [
+            "جامعة الدول العربية",
+            "Jāmiʻat ad-Duwal al-ʻArabīyah",
+            "League of Arab States"
+        ]
+    }],
+    "cioc": "ALG"
 }]
